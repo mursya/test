@@ -5,8 +5,8 @@
 ### Major changes
 
 - `jquery__config` uses jQuery 2.x by default for modern browsers ([#319](https://github.com/bem/bem-core/issues/319)).
-- ability to use any BEMJSON as value of attributes in BEMHTML templates added ([#290](https://github.com/bem/bem-core/issues/290)).
-- dependencies in `i-bem__collection` fixed ([#292](https://github.com/bem/bem-core/issues/292)).
+- Ability to use any BEMJSON as value of attributes in BEMHTML templates added ([#290](https://github.com/bem/bem-core/issues/290)).
+- Dependencies in `i-bem__collection` fixed ([#292](https://github.com/bem/bem-core/issues/292)).
 - `page` block's touch styles removed ([#306](https://github.com/bem/bem-core/issues/306)).
 - `page` BEMHTML wrapping in production mode fixed ([#309](https://github.com/bem/bem-core/issues/309)).
 - possible JavaScript error in script injection in IE<9 in `next-tick` fixed ([#324](https://github.com/bem/bem-core/issues/324)).
